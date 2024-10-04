@@ -48,7 +48,7 @@ import java.util.Scanner;
             rental = 5 * day;
         }else{
             System.out.println("Rental is free. ");
-            
+             
         }
         System.out.println("The rent per day for car is : Rm" + rental);
         //getRentalPricePerDay();
