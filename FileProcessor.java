@@ -10,10 +10,6 @@ public class FileProcessor {
 
        
         try {
-            //   List<Integer> numbersList = new ArrayList<>();
-            //   List<String> readingFiles = new ArrayList<>();
-            //   int divider = 2; 
-            //   String word;
          
             File file = new File("input.txt");
             FileReader fr = new FileReader(file);
